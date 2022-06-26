@@ -13,7 +13,7 @@ Follow the instructions:
 MATLAB_R2019a or above version should be installed on the system.    
 Copy the repository folder, SAR inside the MDClassification folder, and paste it into the MATLAB folder in the Documents folder of C: drive or in the folder that is specified by the user during the installation of the MATLAB application.
 
-Usage
+Usage (All files are placed/upload directly in this Code section)
 
 1)	Run MATLAB application.
 2)	Click on the folder icon “Browse for folder” available on the left side of the MATLAB application address bar.
